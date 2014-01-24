@@ -1,12 +1,12 @@
 {
-  "author": "Maximilian Stroh",
-  "name": "node-webkit-hipster-seed",
-  "description": "Bootstrap a crossplatform Desktop Application using tools you probably never heard of.",
-  "version": "0.0.2",
-  "homepage": "https://github.com/Anonyfox/node-webkit-hipster-seed",
+  "author": "Almewty",
+  "name": "dogecoin-escrow",
+  "description": "A client to simplify escrow for Dogecoin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Almewty/dogecoin-escrow",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Anonyfox/node-webkit-hipster-seed"
+    "url": "https://github.com/Almewty/dogecoin-escrow"
   },
   "scripts": {
     "compiler": "brunch watch -P",

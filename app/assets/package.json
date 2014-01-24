@@ -1,13 +1,13 @@
 {
-  "author": "My Name",
-  "name": "MyAwesomeApp",
-  "description": "Package Description",
+  "author": "Almewty",
+  "name": "dogecoin-escrow",
+  "description": "A client to simplify escrow for Dogecoin",
   "version": "0.0.1",
-  "homepage": "",
+  "homepage": "https://github.com/Almewty/dogecoin-escrow",
   "private": true,
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Almewty/dogecoin-escrow"
   },
   "main": "index.html",
   "node-main": "",
@@ -16,9 +16,9 @@
   "dom_storage_quota": 1024,
   "window": {
     "//": "screen settings",
-    "title": "my awesome app",
+    "title": "Dogecoin escrow client",
     "icon": "link.png",
-    "toolbar": true,
+    "toolbar": false,
     "frame": true,
     "position": "center",
     "width": 1024,
